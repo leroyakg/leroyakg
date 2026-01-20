@@ -13,7 +13,7 @@ With 10+ years of experience in software development at a U.S.-based company, I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leroyakg&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/lekilgore) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lekilgore) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
