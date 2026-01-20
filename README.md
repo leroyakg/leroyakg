@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently Working at US base company as a SR Developer<br>Coding, creating and sometimes video games<br>Learning more about AI<br>Live in Honduras
+With 10+ years of experience in software development at a U.S.-based company, I specialize in designing and building high-quality, scalable, and efficient software applications. <br>I’m passionate about helping businesses leverage technology to optimize their operations and drive growth.
 
 
 ## 🌐 Socials:
